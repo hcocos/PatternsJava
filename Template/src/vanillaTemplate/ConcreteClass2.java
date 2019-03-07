@@ -1,3 +1,4 @@
+package vanillaTemplate;
 
 public class ConcreteClass2 extends AbstractTemplate {
 

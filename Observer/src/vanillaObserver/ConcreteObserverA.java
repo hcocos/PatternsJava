@@ -1,22 +1,23 @@
+package vanillaObserver;
 
 // Implement the Observer Interface
-public class ConcreteObserverB implements Observer {
+public class ConcreteObserverA implements Observer {
 
 	// An instance of Concrete Subject and an observerState
 	private ConcreteSubject subject;
 	private int observerState;
 
 	// Initialize Subject attribute in Constructor
-	public ConcreteObserverB(ConcreteSubject subject) {
+	public ConcreteObserverA(ConcreteSubject subject) {
 		this.subject = subject;
 	}
 
 	@Override
 	public void updateObserver() {
+		// TODO Auto-generated method stub
 
 		observerState = subject.getState();
-		// TODO Auto-generated method stub
-		System.out.println("Updated Observer B with state: " + observerState);
+		System.out.println("Updated Observer A with state: " + observerState);
 	}
 
 }

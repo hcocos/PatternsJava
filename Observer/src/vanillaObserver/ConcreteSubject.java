@@ -1,3 +1,4 @@
+package vanillaObserver;
 
 public class ConcreteSubject extends Subject {
 

@@ -1,3 +1,4 @@
+package vanillaTemplate;
 
 public class Client {
 

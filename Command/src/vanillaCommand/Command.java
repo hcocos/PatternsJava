@@ -1,3 +1,4 @@
+package vanillaCommand;
 
 public interface Command {
 

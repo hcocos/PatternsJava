@@ -1,3 +1,4 @@
+package vanillaCommand;
 
 public class ConcreteCommand2 implements Command {
 

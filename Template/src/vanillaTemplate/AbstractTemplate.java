@@ -1,3 +1,4 @@
+package vanillaTemplate;
 
 public abstract class AbstractTemplate {
 
