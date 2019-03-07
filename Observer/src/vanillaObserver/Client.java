@@ -3,7 +3,6 @@ package vanillaObserver;
 public class Client {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Creating Instances of the Concrete Subject and the Observers
 		ConcreteSubject subject = new ConcreteSubject();

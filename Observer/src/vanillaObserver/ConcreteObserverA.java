@@ -14,7 +14,6 @@ public class ConcreteObserverA implements Observer {
 
 	@Override
 	public void updateObserver() {
-		// TODO Auto-generated method stub
 
 		observerState = subject.getState();
 		System.out.println("Updated Observer A with state: " + observerState);

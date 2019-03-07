@@ -16,7 +16,6 @@ public class ConcreteObserverB implements Observer {
 	public void updateObserver() {
 
 		observerState = subject.getState();
-		// TODO Auto-generated method stub
 		System.out.println("Updated Observer B with state: " + observerState);
 	}
 
