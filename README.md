@@ -16,7 +16,7 @@ A collection of example Patterns written in Java
 
 **TODO**: _Some Information on each Pattern!_
 
-Useful for the Lecture:
+Useful for the Lecture:</br>
 **Pattern Oriented Software Architectures**</br>
 **High Integrity Systems**</br>
 **Frankfurt University of Applied Sciences**</br>
