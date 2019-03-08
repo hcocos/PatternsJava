@@ -20,3 +20,5 @@ Useful for the Lecture:</br>
 **Pattern Oriented Software Architectures**</br>
 **High Integrity Systems**</br>
 **Frankfurt University of Applied Sciences**</br>
+
+Special Thanks to David Merkl and Samuel Alves Santos for the help in implementing the examples.
