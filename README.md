@@ -17,6 +17,6 @@ A collection of example Patterns written in Java
 **TODO**: _Some Information on each Pattern!_
 
 Useful for the Lecture:
-**Pattern Oriented Software Architectures**
-**High Integrity Systems**
-**Frankfurt University of Applied Sciences**
+<br>**Pattern Oriented Software Architectures**</br>
+<br>**High Integrity Systems**</br>
+<br>**Frankfurt University of Applied Sciences**</br>
